@@ -1,3 +1,5 @@
+Sümeyye ÇİLDAN
+
 New Project : django-admin startproject assignment
 New App : manage.py startapp sumeyye
 Admin User : manage.py createsuperuser
